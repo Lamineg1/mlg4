@@ -1,0 +1,8 @@
+Warning[205] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 1 : Found directive in column 1. (LIST)
+Warning[203] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 3 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 4 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 5 : Found opcode in column 1. (CLRF)
+Message[302] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 5 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 6 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 7 : Found opcode in column 1. (BSF)
+Warning[205] C:\USERS\PC\DOCUMENTS\ET2\EXO1.ASM 8 : Found directive in column 1. (END)

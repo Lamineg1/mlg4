@@ -1,0 +1,6 @@
+﻿MikroC PRO for PIC V6.0
+With Patch
+
+Copy the patch to the program folder and replace the old one with this new one
+
+فقط انسخ الباتش لمجلد البرنامج واستبدله بدل القديم
